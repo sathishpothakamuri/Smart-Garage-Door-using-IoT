@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U2",1," Arduino Uno R3"
+"PING1",1," Ultrasonic Distance Sensor"
+"M1",1," DC Motor"
+"BAT6",1," 9V Battery"
+"R3",1,"10 kΩ Resistor"
+"T1",1," nMOS Transistor (MOSFET)"
+"D2",1," Diode"
